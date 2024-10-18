@@ -1,7 +1,0 @@
-orchestrator:
-	port: 8080
-	identity_providers:
-		-name: "okta"
-		 client_id: "0oak96slidkfXedyO5d7"
-		 client_secret: "5odLjvS3tTjdZxOrSDfRWEusyBORvG2cf6onrs-ECCqjukPdIlhN8sLIfQszchAX"
-		 issuer: "https://dev-96190772.okta.com/oauth2/default" 
